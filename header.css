@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* header */
+
+.header-nav-bar {
+    background-color: #64c6cb;
+    height: 20vh;
+}
+.header-nav-bar ul img {
+    height: 200px;
+    cursor: pointer;
+}
+.nav-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.nav-items li {
+    list-style: none;
+    margin: 20px 50px;
+}
+.nav-items li a {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}

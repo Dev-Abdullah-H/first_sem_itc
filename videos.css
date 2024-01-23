@@ -1,0 +1,29 @@
+/* Body */
+.container {
+    margin-top: 2vw;
+    width: 92vw;
+    margin-left: 2.5vw;
+    padding: 20px;
+    border: 2px solid #64c6cb;
+}
+
+.con-row {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1 {
+    padding: 5px 0;
+    color: #4fbac0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1vw;
+    text-decoration: underline;
+}
+
+video {
+    padding: 20px;
+}

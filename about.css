@@ -1,0 +1,12 @@
+.container {
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ab-section {
+    width: 50%;
+}
+h2,h3,h4 {
+    padding: 10px;
+}
